@@ -8,22 +8,22 @@ Se você deseja contribuir para este projeto, seja com feedback, sugestões ou c
 
 ## Pesquisadores, Revisores e Colaboradores
 
-- **Dra. Renata Soares** [![Lattes](../assets/lattes.png)](http://lattes.cnpq.br/2129359947528992) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-1029-325X)
-- **Me. Leonardo Martins** [![Lattes](../assets/lattes.png)](http://lattes.cnpq.br/9014664048098465) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-3779-9488)
-- **Me. Joe Weider** [![Lattes](../assets/lattes.png)](http://lattes.cnpq.br/1256933000772117)
-- **Carlos Charone** [![Lattes](../assets/lattes.png)](http://lattes.cnpq.br/9525696167848455)
-- **Daniela Xavier** [![Lattes](../assets/lattes.png)](http://lattes.cnpq.br/9862650088125932)
-- **Herson Melo** [![Lattes](../assets/lattes.png)](http://lattes.cnpq.br/3355638422146839) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6847-9052)
+- **Dra. Renata Soares** [![Lattes](assets/lattes.png)](http://lattes.cnpq.br/2129359947528992) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-1029-325X)
+- **Me. Leonardo Martins** [![Lattes](assets/lattes.png)](http://lattes.cnpq.br/9014664048098465) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-3779-9488)
+- **Me. Joe Weider** [![Lattes](assets/lattes.png)](http://lattes.cnpq.br/1256933000772117)
+- **Carlos Charone** [![Lattes](assets/lattes.png)](http://lattes.cnpq.br/9525696167848455)
+- **Daniela Xavier** [![Lattes](assets/lattes.png)](http://lattes.cnpq.br/9862650088125932)
+- **Herson Melo** [![Lattes](assets/lattes.png)](http://lattes.cnpq.br/3355638422146839) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6847-9052)
 
 _Obs.: Os colaboradores estão listados por ordem de titulação + alfabética._
 
-## Lattes ![Lattes](../assets/lattes.png)
+## Lattes ![Lattes](assets/lattes.png)
 
 [https://lattes.cnpq.br/](https://lattes.cnpq.br/)
 
 O Currículo Lattes é uma plataforma mantida pelo CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico) que reúne informações sobre pesquisadores, estudantes e instituições de pesquisa no Brasil. O Currículo Lattes é amplamente utilizado para avaliação e acompanhamento de pesquisadores e projetos de pesquisa, sendo uma ferramenta essencial para a comunidade acadêmica.
 
-## ORCID ![ORCID](../assets/orcid.png)
+## ORCID ![ORCID](assets/orcid.png)
 
 [https://orcid.org/](https://orcid.org/)
 
