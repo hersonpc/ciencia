@@ -12,6 +12,7 @@ nav:
   - Sobre: 
     - Como contribuir: contribuir.md
     - Política de colaboração: contribuir-politica.md
+    - Planejamento educacional: apoio/planejamento-educacional.md
     - Autores: sobre.md
 
 extra:
@@ -22,8 +23,8 @@ theme:
   name: material
   
   features:
-    # - navigation.expand
-    - navigation.tabs.sticky
+    - navigation.expand
+    # - navigation.tabs.sticky
 
   # icon:
   #   logo: material-book-education
